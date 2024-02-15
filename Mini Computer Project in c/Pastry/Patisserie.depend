@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652862246 source:c:\users\invité\documents\miniprojetinformatique\patisserie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Fonctions.h"
+
+1652872524 c:\users\invité\documents\miniprojetinformatique\patisserie\fonctions.h
+	<string.h>
+
